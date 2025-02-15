@@ -16,7 +16,7 @@ Este projeto foi inicialmente inspirado e é baseado no repositório [ai-enginee
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/patchy631/ai-engineering-hub.git
+    git clone [https://github.com/patchy631/ai-engineering-hub.git](https://github.com/matheus896/crew-rag-complexdocs)
     cd ai-engineering-hub/agentic_rag_deepseek
     ```
 
